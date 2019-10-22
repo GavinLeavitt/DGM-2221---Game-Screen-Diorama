@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 5e50c450f6907924c8982cbf42896d66
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: banner_geo
+    100002: bone_geo1
+    100004: bone_geo2
+    100006: connecting_rope_geo
+    100008: decorative_horns_geo
+    100010: decorative_horns_geo1
+    100012: decorative_horns_geo2
+    100014: horn_post
+    100016: horn_post_grp
+    100018: horned_skull_geo
+    100020: horned_skull_geo1
+    100022: jawed_skull_geo
+    100024: //RootNode
+    100026: post_geo
+    100028: skull_post_grp
+    100030: spiked_post_geo
+    100032: two_skull_post_grp
+    400000: banner_geo
+    400002: bone_geo1
+    400004: bone_geo2
+    400006: connecting_rope_geo
+    400008: decorative_horns_geo
+    400010: decorative_horns_geo1
+    400012: decorative_horns_geo2
+    400014: horn_post
+    400016: horn_post_grp
+    400018: horned_skull_geo
+    400020: horned_skull_geo1
+    400022: jawed_skull_geo
+    400024: //RootNode
+    400026: post_geo
+    400028: skull_post_grp
+    400030: spiked_post_geo
+    400032: two_skull_post_grp
+    2100000: foreground_objects_mat1
+    2100002: two_skull_post_mat
+    2300000: banner_geo
+    2300002: bone_geo1
+    2300004: bone_geo2
+    2300006: connecting_rope_geo
+    2300008: decorative_horns_geo
+    2300010: decorative_horns_geo1
+    2300012: decorative_horns_geo2
+    2300014: horn_post
+    2300016: horned_skull_geo
+    2300018: horned_skull_geo1
+    2300020: jawed_skull_geo
+    2300022: post_geo
+    2300024: spiked_post_geo
+    3300000: banner_geo
+    3300002: bone_geo1
+    3300004: bone_geo2
+    3300006: connecting_rope_geo
+    3300008: decorative_horns_geo
+    3300010: decorative_horns_geo1
+    3300012: decorative_horns_geo2
+    3300014: horn_post
+    3300016: horned_skull_geo
+    3300018: horned_skull_geo1
+    3300020: jawed_skull_geo
+    3300022: post_geo
+    3300024: spiked_post_geo
+    4300000: banner_geo
+    4300002: connecting_rope_geo
+    4300004: decorative_horns_geo
+    4300006: horned_skull_geo
+    4300008: post_geo
+    4300010: horn_post
+    4300012: decorative_horns_geo1
+    4300014: decorative_horns_geo2
+    4300016: horned_skull_geo1
+    4300018: bone_geo1
+    4300020: bone_geo2
+    4300022: jawed_skull_geo
+    4300024: spiked_post_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
