@@ -17,7 +17,17 @@ ModelImporter:
     3300002: hut_roof_and_tent_geo
     4300000: hut_framing_details_geo
     4300002: hut_roof_and_tent_geo
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hut_framing_details_mat
+    second: {fileID: 2100000, guid: d8e4d93c64c525d4c84ac740d150b059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hut_roof_and_tent_mat
+    second: {fileID: 2100000, guid: da46b713987c8a74db67d3ed7e40c3f9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

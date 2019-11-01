@@ -21,7 +21,12 @@ ModelImporter:
     4300000: sunken_walkway_geo
     4300002: connecting_rope_geo
     4300004: sunken_walkway_geo1
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: midground_walkways_mat
+    second: {fileID: 2100000, guid: 06154ffa7012b284193eaa9496fe6232, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

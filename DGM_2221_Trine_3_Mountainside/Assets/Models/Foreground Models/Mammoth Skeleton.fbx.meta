@@ -205,7 +205,32 @@ ModelImporter:
     4300060: medium_icicle_geo
     4300062: icicle_cluster_geo
     4300064: medium_icicle_geo1
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ice_mat
+    second: {fileID: 2100000, guid: da2755ee3a4fc1343bda2e7db130a506, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mammoth_arms_mat
+    second: {fileID: 2100000, guid: 0671b8dc3a100d940aa00fa9155da86d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mammoth_head_mat
+    second: {fileID: 2100000, guid: 71b2f163103ff5240b7504acb1308402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mammoth_legs_mat
+    second: {fileID: 2100000, guid: 7811c78d3af40ce4a993836995f809de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mammoth_torso_mat
+    second: {fileID: 2100000, guid: 8b1312748c4166b4ebadd24a43c33397, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

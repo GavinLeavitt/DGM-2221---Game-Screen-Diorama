@@ -78,7 +78,17 @@ ModelImporter:
     4300020: bone_geo2
     4300022: jawed_skull_geo
     4300024: spiked_post_geo
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foreground_objects_mat1
+    second: {fileID: 2100000, guid: 750d3549ec020b5428ea4ee25d1bb9c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: two_skull_post_mat
+    second: {fileID: 2100000, guid: 750d3549ec020b5428ea4ee25d1bb9c9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

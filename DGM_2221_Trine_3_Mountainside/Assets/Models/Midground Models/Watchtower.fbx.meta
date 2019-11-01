@@ -50,7 +50,12 @@ ModelImporter:
     4300010: watchtower_column_geo
     4300012: watchtower_supports_geo
     4300014: tower_banner_geo
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: watchtower_mat
+    second: {fileID: 2100000, guid: fc713a8651783e049bd1adf38cbbdbbd, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

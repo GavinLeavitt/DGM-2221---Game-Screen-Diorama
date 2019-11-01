@@ -16,7 +16,12 @@ ModelImporter:
     3300002: bridge_ropes_geo
     4300000: bridge_logs_geo
     4300002: bridge_ropes_geo
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skinny_bridge_mat
+    second: {fileID: 2100000, guid: afdbd00862e5cc64780bc1b54771beb7, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

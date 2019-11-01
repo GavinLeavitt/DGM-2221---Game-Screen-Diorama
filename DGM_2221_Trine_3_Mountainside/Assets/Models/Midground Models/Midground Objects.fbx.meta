@@ -55,7 +55,12 @@ ModelImporter:
     4300012: tree_roots_geo3
     4300014: tree_geo
     4300016: tree_needles_geo
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: midground_objects_mat
+    second: {fileID: 2100000, guid: d83a8927870f88147922f92c9eb1c505, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
